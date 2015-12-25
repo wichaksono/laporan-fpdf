@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+table {
+    border-spacing: 0;
+    margin: 0 auto;
+}
+
+table  tr:first-child {
+    background: #555;
+    color:#fff;
+}
+
+td {padding: 10px;}
+
+.button-a {
+	    padding: 10px 15px;
+    background: #34495e;
+    text-decoration: none;
+    color: #fff;
+}
+
+.button-a:hover, .button-a:focus {
+	background-color: #2c3e50;
+}
